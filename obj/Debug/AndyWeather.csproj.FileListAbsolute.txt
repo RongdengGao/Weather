@@ -1,0 +1,12 @@
+D:\C#源码项目\AndyWeather\bin\Debug\AndyWeather.exe
+D:\C#源码项目\AndyWeather\bin\Debug\AndyWeather.pdb
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.Form1.resources
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.Properties.Resources.resources
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.csproj.GenerateResource.cache
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.csproj.CoreCompileInputs.cache
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.exe
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.pdb
+D:\C#源码项目\AndyWeather\bin\Debug\Newtonsoft.Json.dll
+D:\C#源码项目\AndyWeather\bin\Debug\NPinyin.dll
+D:\C#源码项目\AndyWeather\bin\Debug\Newtonsoft.Json.xml
+D:\C#源码项目\AndyWeather\obj\Debug\AndyWeather.csproj.CopyComplete
